@@ -1,0 +1,19 @@
+# ninja log v5
+12	1056	7075942826088216	CMakeFiles/untitled.dir/main2.cpp.obj	db2f20278a9c46a3
+5	2829	7076862972280404	CMakeFiles/untitled.dir/main.cpp.obj	bfb31e07a261a27e
+1	161	7082243080601409	build.ninja	31d1a71c7a6d5f6e
+5	945	7076841745185977	CMakeFiles/untitled.dir/Gracz.cpp.obj	63347eee328ed9d5
+1778	1960	7076886837993918	untitled.exe	6e291fa4f2d4325
+13	904	7064818809104414	CMakeFiles/untitled.dir/pytanie.cpp.obj	a55a8a353179922e
+9	108	7074130112159594	CMakeFiles/untitled.dir/Gra.cpp.obj	2b4eee67354bc9e0
+4	60	7075822370821029	CMakeFiles/untitled.dir/testy.cpp.obj	9e534b38a03d56a3
+6	2387	7076885223613235	CMakeFiles/untitled.dir/GraJednoreki.cpp.obj	2ac1042e425b2e73
+4	1434	7076884165481405	CMakeFiles/untitled.dir/GraRuletka.cpp.obj	1d5864c26403aca2
+4	4451	7076874240513711	CMakeFiles/untitled.dir/Plik.cpp.obj	3db728b03506dfa3
+4	1778	7076886836218073	CMakeFiles/untitled.dir/GraBlackJack.cpp.obj	4b356e1783d23ebc
+68	2645	7314605174149051	CMakeFiles/untitled.dir/GraRuletka.cpp.obj	1d5864c26403aca2
+4	2653	7314605174159022	CMakeFiles/untitled.dir/main.cpp.obj	bfb31e07a261a27e
+51	2661	7314605174268732	CMakeFiles/untitled.dir/GraJednoreki.cpp.obj	2ac1042e425b2e73
+2645	4406	7314605191791864	CMakeFiles/untitled.dir/GraBlackJack.cpp.obj	4b356e1783d23ebc
+57	5395	7314605201655763	CMakeFiles/untitled.dir/Plik.cpp.obj	3db728b03506dfa3
+5395	5739	7314605205076630	untitled.exe	e4c1d1194bf863a9
